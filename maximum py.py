@@ -1,0 +1,5 @@
+num1 = float(input("enter num1 number"))
+num2 = float(input("enter num2 number"))
+num3 = float(input("enter num3 number"))
+maximum = max(num1, num2, num3)
+print("maximum number",maximum)
